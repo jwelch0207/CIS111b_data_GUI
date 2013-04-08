@@ -1,3 +1,6 @@
+//So obviously this is written to connect to my work database so we would have to change the database URL but this is what I got to work! You also need to download the JDBC driver and add it to the libraries drop down in NetBeans. 
+
+
 package mastersystemtest;
 //STEP 1. Import required packages
 import java.sql.*;
